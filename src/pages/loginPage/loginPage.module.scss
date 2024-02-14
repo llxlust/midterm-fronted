@@ -1,0 +1,22 @@
+.box{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.header{
+    margin-top: 5%;
+    font-size: 3rem;
+}
+.form{
+    margin-top: 5%;
+}
+.status{
+    font-size: 3rem;
+}
+.wrap{
+    display: flex;
+}
+.qr{
+}
